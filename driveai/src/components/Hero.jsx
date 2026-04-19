@@ -1,4 +1,4 @@
-// import { scrollToSection } from '../utils/scroll';
+import { scrollToSection } from '../utils/scroll';
 
 export default function Hero() {
   return (
