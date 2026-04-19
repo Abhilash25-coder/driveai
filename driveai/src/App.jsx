@@ -8,6 +8,7 @@ import Comparison from "./components/Comparison";
 import Pricing from "./components/Pricing";
 import Booking from "./components/Booking";
 import Contact from "./components/Contact";
+import AIAssistant from "./components/AIAssistant";
 export default function App() {
   return (
     <AppProvider>
@@ -19,6 +20,7 @@ export default function App() {
     <Pricing/>
     <Booking />
     <Contact />
+    <AIAssistant />
     </AppProvider>
   );
 }
