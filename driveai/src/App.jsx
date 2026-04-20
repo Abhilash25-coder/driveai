@@ -9,6 +9,7 @@ import Pricing from "./components/Pricing";
 import Booking from "./components/Booking";
 import Contact from "./components/Contact";
 import AIAssistant from "./components/AIAssistant";
+// restart
 export default function App() {
   return (
     <AppProvider>
